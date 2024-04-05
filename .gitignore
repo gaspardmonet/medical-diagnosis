@@ -1,0 +1,5 @@
+*~
+./values-secret*
+*.swp
+*.vscode
+super-linter.log
